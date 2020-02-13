@@ -1,0 +1,78 @@
+body {
+	background-image: url("newname.gif");
+	font-family: arial;
+}
+
+h1 {
+	background-color: #b148d2;
+	width: 200px;
+	border: 5px solid black;
+	padding: 10px;
+	margin: 10px;
+	margin-bottom: 50px;
+	border-radius: 5px;
+	margin-top: 50px;
+	text-align: center;
+	text-decoration: bold;
+}
+
+
+div {
+	display: flex;
+	justify-content: center; 
+}
+
+ul {
+	background-color: white;
+	padding: 5px;
+	border: solid black;
+	border-radius: 10px;
+	margin-left: 5px;
+}
+
+
+
+p {
+	background-color: orange;
+	width: 200px;
+	border: 5px solid black;
+	padding: 10px;
+	margin: 10px;
+	border-radius: 25px;
+	margin-top: 50px;
+	text-align: center;
+}
+
+
+button {
+	background-color: white;
+	padding: 5px;
+	border-radius: 10px;
+	margin-left: 5px;
+}	
+
+input {
+    -webkit-writing-mode: horizontal-tb !important;
+    text-rendering: auto;
+    color: -internal-light-dark-color(black, white);
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 3px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    -webkit-appearance: textfield;
+    background-color: -internal-light-dark-color(white, black);
+    -webkit-rtl-ordering: logical;
+    cursor: text;
+    margin: 0em;
+    font: 400 13.3333px Arial;
+    padding: 1px 1px;
+    border-width: 2px;
+    border-style: inset;
+    border-color: initial;
+    border-image: initial;
+    border: 3px solid black;
+    border-radius: 8px;
+}
